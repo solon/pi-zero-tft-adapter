@@ -20,5 +20,5 @@ Eagle designs for a PCB to connect a Raspberry Pi Zero to an [Adafruit 2.2" TFT 
 Pinout taken from http://aaron-brown.net/blog/?p=99
 
 ## Order this board
-You can order this board direct from OSH Park. 
+You can order this board direct from OSH Park.<br /> 
 <a href="https://oshpark.com/shared_projects/PlSWHszO"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>

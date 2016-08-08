@@ -2,7 +2,9 @@
 
 Eagle designs for a PCB to connect a Raspberry Pi Zero to an [Adafruit 2.2" TFT LCD](https://www.adafruit.com/products/1480).
 
-![](https://raw.githubusercontent.com/solon/pi-zero-tft-adapter/master/SketchUp/Pi%20Zero%20TFT%20LCD%20adapter.png)
+![Pi Zero TFT adapter](https://raw.githubusercontent.com/solon/pi-zero-tft-adapter/master/Pi-Zero-TFT-LCD-adapter-1.jpg)
+
+![Pi Zero TFT adapter](https://raw.githubusercontent.com/solon/pi-zero-tft-adapter/master/SketchUp/Pi%20Zero%20TFT%20LCD%20adapter.png)
 
 
 | LCD Pin | RPi Pin | RPi Pin # |
